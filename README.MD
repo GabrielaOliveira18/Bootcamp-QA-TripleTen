@@ -1,6 +1,6 @@
 # Bootcamp QA
 
-<img src="C:\Bootcamp-QA-Tripleten\imagens\logo-T10.png">
+<img src="/imagens/logo-T10.png">
 
 ### Sprint 1
 
@@ -36,7 +36,6 @@ conhecimentos adquiridos:
 
 ### Sprint 5
 
-No Sprint 5, tive uma introdução básica ao banco de dados SQL. O foco foi aprender a utilizar a linha de comando para interagir com bancos de dados, conectar a um servidor remoto, e adquirir conhecimentos fundamentais em SQL.
+No Sprint 5, tive uma introdução básica ao banco de dados SQL. O foco foi aprender a utilizar a linha de comando para interagir com bancos de dados, conectar a um servidor remoto,  e adquirir conhecimentos fundamentais em SQL.
 
 ### Sprint 6
-O Sprint 6 foi o projeto final, onde coloquei em prática todos os conhecimentos adquiridos ao longo das sprints anteriores. Este sprint foi focado em consolidar a teoria e a prática, respondendo a perguntas teóricas, testando o web aplicativo Urban Scooter e criando um checklist de testes abrangente.
